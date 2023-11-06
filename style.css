@@ -31,6 +31,10 @@ h3 {
   font-family: "Playfair Display", Times, serif;
 }
 
+h2.style1{
+  font-size:30px;
+}
+
 article{
   padding: 50px 0;
 }
